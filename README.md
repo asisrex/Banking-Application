@@ -14,3 +14,4 @@ Below are some Screenshots of the Project
 ![Screenshot 2023-11-08 115932](https://github.com/asisrex/Banking-Application/assets/140873140/afbe4fc7-7b29-4bac-8b5c-78bf49fa49d1)
 ![Screenshot 2023-11-08 115946](https://github.com/asisrex/Banking-Application/assets/140873140/b36bc374-1cc4-44ea-b484-87cc4f4f6cbc)
 ![Screenshot 2023-11-08 120002](https://github.com/asisrex/Banking-Application/assets/140873140/628e6e61-338d-4ff9-b7e1-e9498b937842)
+  * Ignore the SBI logo in the background imgae it was self practice project.Used image is only for demonstartion purpose *
